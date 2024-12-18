@@ -11,6 +11,4 @@ Netflix, the world's leading streaming entertainment service, has revolutionized
 * To understand genre diversity and content duration patterns.
 
 ### Dashboard Overview
-https://github.com/AleenaVals/Netflix-Content-Analytics-Dashboard/blob/d9147e54726220520a59c039c773d37333bdb226/netflix_data_dashboard.pdf
-
-
+[netflix_data_dashboard.pdf](https://github.com/user-attachments/files/18183631/netflix_data_dashboard.pdf)
