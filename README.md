@@ -43,9 +43,9 @@ Netflix, the world's leading streaming entertainment service, has revolutionized
 Data cleaning and transformation were performed to ensure data quality and consistency before visualization. This included handling missing values, standardizing formats, and optimizing data structure for analysis.
 
 ### Tools Used
-Visualisation Tool : Power BI Desktop
-Data Visualization Techniques: Donut Charts, Bar Charts, Geographic Maps, Time Series Analysis, Heat Maps
-Dataset : [Netflix Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) 
+* Visualisation Tool : Power BI Desktop
+* Data Visualization Techniques: Donut Charts, Bar Charts, Geographic Maps, Time Series Analysis, Heat Maps
+* Dataset : [Netflix Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) 
 
 ### Conclusion
 This dashboard effectively visualizes Netflix's content strategy, highlighting its focus on diverse, global content production while maintaining a balanced portfolio across different genres and ratings. The analysis reveals Netflix's strong emphasis on mature content (TV-MA, TV-14) and its significant investment in movie content, while also showing its strategic expansion in key markets like India.
